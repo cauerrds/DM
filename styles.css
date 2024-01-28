@@ -24,6 +24,10 @@ body {
     max-height: 50px;
   }
   
+  .logo-container > div {
+    max-height: 50px;
+  }
+
   nav ul {
     list-style-type: none;
     display: flex;
